@@ -1,8 +1,11 @@
 body {
-    background-color: blue;
+    background-color: #27476E;
 }
 
 .navbar {
     display: flex;
     justify-content: space-around;
+}
+h1 {
+    color:#ffffff;
 }
