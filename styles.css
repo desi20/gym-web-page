@@ -6,6 +6,7 @@ body {
     display: flex;
     justify-content: space-around;
     background-color: #27476E;
+    padding-top: 0px;
 }
 h1 {
     color:#ffffff;
@@ -16,7 +17,9 @@ h2 {
 .images {
     display: flex;
     justify-content: space-around;
+    margin-top: 55px;
 }
 .text {
     
 }
+
