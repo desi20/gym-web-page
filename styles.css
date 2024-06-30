@@ -94,5 +94,22 @@ footer {
 }
 
 .footer-content {
-    font-size: 25px;
+    display: flex;
+    font-size: 20px;
+    color: white;
+    justify-content: space-evenly;
+    padding: 45px;
+    height: 10rem;
+}
+.column1 {
+    width: 49%;
+    float: left;
+    align-items: center;
+    display: inline;
+}
+.column2 {
+    width: 49%;
+    float: right;
+    align-items: center;
+    display: inline;
 }
